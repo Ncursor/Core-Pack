@@ -75,6 +75,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "wither_immune_blocks"
+    },
+    {
+      "name": "FallThroughLeaves",
+      "type": "function",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fall_through_leaves"
     }
   ],
   "variable_elements": [],
