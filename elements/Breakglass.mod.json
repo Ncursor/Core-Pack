@@ -1,0 +1,9 @@
+{
+  "_fv": 24,
+  "_type": "function",
+  "definition": {
+    "code": "execute at @e[type=minecraft:arrow] if block ~ ~ ~ Core:breakable_glass run setblock ~ ~ ~ minecraft:air destroy",
+    "name": "breakglass",
+    "namespace": "mod"
+  }
+}

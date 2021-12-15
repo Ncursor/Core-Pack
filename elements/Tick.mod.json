@@ -1,0 +1,9 @@
+{
+  "_fv": 24,
+  "_type": "function",
+  "definition": {
+    "code": "function Core:Breakglass",
+    "name": "tick",
+    "namespace": "mod"
+  }
+}
