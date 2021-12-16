@@ -98,10 +98,10 @@
   "workspaceSettings": {
     "modid": "core",
     "modName": "Core",
-    "version": "1.0.0",
-    "author": "Hoa Chi Kien, MCreator",
+    "version": "0.1Al",
+    "author": "Ncursor",
     "websiteURL": "https://mcreator.net",
-    "license": "Academic Free License v3.0",
+    "license": "MIT License",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
@@ -109,6 +109,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "datapack-1.16.x",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.core",
     "lockBaseModFiles": false
   },
