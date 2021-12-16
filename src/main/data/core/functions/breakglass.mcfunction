@@ -1,1 +1,1 @@
-execute at @e[type=minecraft:arrow] if block ~ ~ ~ Core:breakable_glass run setblock ~ ~ ~ minecraft:air destroy
+execute at @e[type=#minecraft:arrows,nbt={inBlockState:"#core:breakableglass"}] run setblock ~ ~ ~ minecraft:air destroy
