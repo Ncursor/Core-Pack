@@ -1,2 +1,2 @@
 # Core-Pack
-A Proprietary General-purpose Mineacraft datapack used in NewtBuilder server
+A Proprietary General-purpose Mineacraft datapack used in Consturctionerserver
